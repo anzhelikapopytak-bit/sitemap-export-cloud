@@ -1,0 +1,6 @@
+# One root sitemap URL per line.
+# Empty lines and lines beginning with # are ignored.
+
+https://legalbet.es/sitemap/es/sm_index.xml
+https://www.casasdeapuestas.com/sitemap.xml
+https://tribuna.com/sitemap.xml
